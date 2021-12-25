@@ -1,2 +1,6 @@
 hello
-hi from stash
+<<<<<<< Updated upstream
+hi from stas
+=======
+hi from git stash
+>>>>>>> Stashed changes
