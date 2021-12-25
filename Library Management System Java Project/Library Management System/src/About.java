@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- *A public class
+ *A public class  git stash
  */
 public class About extends JPanel {
 	//constructor of about
